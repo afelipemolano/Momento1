@@ -3,9 +3,11 @@ INICIO
 // Desafio 3: Viabilidad de pedido mayorista complejo
 
 //ENTRADA
+
 // =========================
 
     // CONSTANTES (EN MAYUSCULA POR CONVENCIÓN)
+
     // =========================
     Definir CANTIDAD_MINIMA Como Entero
     Definir CAPACIDAD_MAXIMA_KG Como Real
@@ -14,6 +16,7 @@ INICIO
     CAPACIDAD_MAXIMA_KG <- 750
  
     //VARIABLES (Primera letra de la primera palabra en minúscula, en adelante la primera letra mayúscula)
+
     // =========================
 
     Definir precioUnitario Como Real
@@ -40,6 +43,7 @@ INICIO
 
 
 //PROCESO
+
 // =========================
 
     costoTotal <- precioUnitario * cantidadSolicitada
@@ -50,6 +54,7 @@ INICIO
 
 
 // SALIDA
+
 // =========================
 
     Escribir "Es ", esPedidoViable, "que el pedido es viable"
