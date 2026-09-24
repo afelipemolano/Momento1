@@ -51,6 +51,7 @@ INICIO
 
 // SALIDA
 // =========================
+
     Escribir "Es ", esPedidoViable, "que el pedido es viable"
 
 FIN
